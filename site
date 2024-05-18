@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мой сайт о Майнкрафте</title>
+</head>
+<body>
+    <header>
+        <h1>Добро пожаловать на мой сайт о Майнкрафте!</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#news">Новости</a></li>
+            <li><a href="#guides">Руководства</a></li>
+            <li><a href="#gallery">Галерея</a></li>
+            <li><a href="#forum">Форум</a></li>
+            <li><a href="#mods">Моды</a></li>
+        </ul>
+    </nav>
+    
+    <section id="news">
+        <h2>Новости</h2>
+        <p>Здесь будут новости о Майнкрафте.</p>
+    </section>
+    
+    <section id="guides">
+        <h2>Руководства</h2>
+        <p>Здесь будут полезные советы и руководства для игроков.</p>
+    </section>
+    
+    <section id="gallery">
+        <h2>Галерея</h2>
+        <p>Здесь будут впечатляющие скриншоты и работы игроков.</p>
+    </section>
+    
+    <section id="forum">
+        <h2>Форум</h2>
+        <p>Здесь можно будет обсуждать Майнкрафт с другими игроками.</p>
+    </section>
+    
+    <section id="mods">
+        <h2>Моды</h2>
+        <p>Здесь можно будет найти и скачать моды для Майнкрафта.</p>
+    </section>
+    
+    <footer>
+        <p>© 2024 Мой сайт о Майнкрафте</p>
+    </footer>
+</body>
+</html>
